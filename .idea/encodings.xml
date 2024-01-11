@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/Game/Bing.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/Game/GamePanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/Game/Pao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/Game/Record.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/client/handle/CreateRoomHandle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/client/handle/LoginHandle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/client/handle/RecordHandle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/client/handle/RegHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/client/handle/testController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/gui/LoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/gui/Register.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/gui/UserUpdata.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/gui/cg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/gui/change.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/message/Record.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/message/RegisterRequestMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Main/java/com/pcx/message/RegisterResponseMessage.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
